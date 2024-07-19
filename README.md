@@ -8,4 +8,5 @@ YouTube videos used in this project:
 2. C0 F2P Yoimiya Showcase. The Most Undervalued 5*  | Cavernman
 3. C6 Yoimiya and R5 Thundering Pulse Damage Showcase | blitzexx
 
+Link👇
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://dev-zenitsu.github.io/Yoimiya-Landing-Page/)
