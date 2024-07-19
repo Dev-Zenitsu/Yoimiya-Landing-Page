@@ -9,4 +9,5 @@ YouTube videos used in this project:
 3. C6 Yoimiya and R5 Thundering Pulse Damage Showcase | blitzexx
 
 Link👇
+<br>
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://dev-zenitsu.github.io/Yoimiya-Landing-Page/)
